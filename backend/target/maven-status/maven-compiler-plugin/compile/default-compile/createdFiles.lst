@@ -1,0 +1,5 @@
+com\ticketing\backend\model\Configuration.class
+com\ticketing\backend\controller\TicketingController.class
+com\ticketing\backend\services\TicketPoolService.class
+com\ticketing\backend\BackendApplication.class
+com\ticketing\backend\model\Ticket.class
