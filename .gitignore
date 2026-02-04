@@ -27,3 +27,17 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Node
+node_modules/
+
+# Angular
+dist/
+.angular/
+
+# Environment files
+.env
+
+# Logs
+npm-debug.log*
+yarn-error.log*
